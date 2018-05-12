@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '41683'
     url: http://www.gutenberg.org/2009/agents/41683
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42423#Justin-Wingate-Ranchman
 gutenberg_issued: '2013-03-28'
 gutenberg_type: Text
 identifiers:
